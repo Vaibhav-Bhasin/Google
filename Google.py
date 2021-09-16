@@ -60,3 +60,32 @@ gg. forward(50)
 99.color("#F4B400","#F4B480")
 
 99.right(180) gg. forward(50)
+gg.right(90) gg.circle(100,60)
+
+gg.right(90)
+
+gg.forward(50)
+
+gg.right(90)
+
+gg.circle(-150,60)
+
+gg.end_fill()
+
+gg.right(90)
+
+gg. forward (50) gg.right(90)
+
+99.circle(100,60)
+
+gg.color("#0F9D58","#0F9D58") gg.begin_fill()
+
+gg.circle(100, 100)
+
+gg.right (90)
+
+gg.forward(50)
+
+99.right(90)
+
+gg.circle(-150,100) 99.right(90)
