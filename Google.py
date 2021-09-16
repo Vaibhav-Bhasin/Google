@@ -21,3 +21,42 @@ red
 # green =#0F9D58
 
 # yellow =#F4B40
+def
+
+google():
+
+gg.forward(120)
+
+99.right(90)
+
+gg.circle(-150,50)
+
+gg.color("#8F9058") gg.circle(-150, 100)
+
+99.color("#F40408")
+
+99.circle(-150,60)
+
+gg.color("#DB4437","#084437")
+
+gg.begin_fill() gg.circle(-150, 100)
+
+99.right(90)
+
+gg.forward(50)
+
+99.right(90)
+
+99.circle(180,100)
+
+cat rma
+
+99.right(90)
+
+gg. forward(50)
+
+99.end_fill() gg.begin_fill()
+
+99.color("#F4B400","#F4B480")
+
+99.right(180) gg. forward(50)
