@@ -89,3 +89,36 @@ gg.forward(50)
 99.right(90)
 
 gg.circle(-150,100) 99.right(90)
+gg. forward(50)
+
+gg.end_fill()
+
+99.right(90)
+
+09.circle(100,100)
+
+99.color("#4285F4","#4285F4") gg.begin fill()
+
+gg.circle(100,25)
+
+99. left(115)
+
+99. forward(65)
+
+99.right(90)
+
+99. forward(42)
+
+99.right(90) gg. forward(124)
+
+99.right(90)
+
+99.circle(-150,50) gg.right(90)
+
+99.forward(50) gg.end_fill()
+
+google()
+
+gg.hideturtle()
+
+turtle.done()
